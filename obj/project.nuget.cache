@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvvF79dms18=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anderson\\Desktop\\Back_end_Smarthub\\backend\\Back_end_Smarthub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

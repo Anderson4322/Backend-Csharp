@@ -1,0 +1,6 @@
+@Back_end_Smarthub_HostAddress = http://localhost:5102
+
+GET {{Back_end_Smarthub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

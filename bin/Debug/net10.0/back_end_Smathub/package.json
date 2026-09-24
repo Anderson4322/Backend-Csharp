@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "postgres": "^3.4.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "back_end_smarthub",
+  "version": "1.0.0",
+  "main": "database.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
